@@ -4,6 +4,8 @@
     Bu proje göze hitap eden estetik bir restaurant dükkanı web sitesi tasarımıdır. Zarif dizaynıyla dikkatleri çekmektedir.
 </p>
 
+https://github.com/user-attachments/assets/f307c61a-7db7-48cc-82fb-f7cf10d3be03
+
 <hr>
 
 <h2>Projenin Özellikleri </h2>
